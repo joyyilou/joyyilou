@@ -1,11 +1,12 @@
-### Hi there 👋
 ### 專長
-心理學
-### 學歷
-輔仁大學心理學系
+❤心理學
+### 經歷
+📝輔仁大學心理學系
 ### 興趣
-小說
-追劇
+📚小說
+🎞追劇
+### 信箱
+✉jy98026@gmail.com
 <!--
 **joyyilou/joyyilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
