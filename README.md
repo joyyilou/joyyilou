@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+### 專長
+心理學
+### 學歷
+輔仁大學心理學系
+### 興趣
+小說
+追劇
 <!--
 **joyyilou/joyyilou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
